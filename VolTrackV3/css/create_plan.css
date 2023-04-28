@@ -1,0 +1,150 @@
+html{
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+
+#board
+{
+   max-width: 400px;
+   width: 400px;
+}
+
+
+#plan_name{
+    width:100%;
+}
+
+
+#select_degree
+{
+    width: 100%;
+    height: 100%;}
+
+#select_completed_course
+{
+    width: 100%;
+    height: 100%;
+}
+
+.addBtn
+{
+    justify-content: flex-end;
+}
+.group_flexbox
+{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+
+.right_align{
+    margin-top: 4px;
+    justify-content: flex-end;
+}
+
+input{
+    outline: none;
+    padding: 5px;
+}
+
+.secondary-color
+{
+    color: white;
+    background-color: #bd0000;
+}
+
+
+
+body {
+    font: 16px Arial;  
+  }
+  
+  /*the container must be positioned relative:*/
+  .autocomplete {
+    position: relative;
+    display: inline-block;
+    flex-grow: 1;
+}
+  
+
+  .autocomplete-items {
+    position: absolute;
+    border: 1px solid #ffffff;
+    border-bottom: none;
+    border-top: none;
+    z-index: 99;
+    /*position the autocomplete items to be the same width as the container:*/
+    top: 100%;
+    left: 0;
+    right: 0;
+  }
+  
+  .autocomplete-items div {
+    padding: 10px;
+    cursor: pointer;
+    background-color: #fff; 
+    border-bottom: 1px solid #d4d4d4; 
+  }
+  .autocomplete-items div:last-child {
+    border-bottom: none
+  }
+  /*when hovering an item:*/
+  .autocomplete-items div:hover {
+    background-color: #e9e9e9; 
+  }
+  
+  /*when navigating through the items using the arrow keys:*/
+  .autocomplete-active {
+    background-color: orange !important; 
+    color: #ffffff; 
+  }
+
+  #error
+  {
+    color: red;
+  }
+
+
+  .pill_container
+{
+    padding: 5px;
+    margin-top: 4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    flex-wrap: nowrap;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    gap: 5px;
+    height: 40px;
+    background-color: rgb(241, 241, 241);
+    border-radius: 4px;
+    
+}
+
+  .pill{
+    max-height: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5px;
+    padding: 5px;
+    background-color: #ffffff;
+    border-radius: 4px;
+  }
+
+  .pill-text
+  {
+    font-size: 14px;
+    white-space: nowrap;
+  }
+
+#selectTerm
+{
+    width:100%;
+    outline: none;
+    height: 30px;
+}

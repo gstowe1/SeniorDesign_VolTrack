@@ -1,0 +1,106 @@
+.card{
+    width:265px;
+    min-width: 265px;
+
+
+    border-top: 10px solid rgb(220,53,69);
+    
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+
+.card-body{
+    padding-right: 0;
+}
+
+#card
+{
+    margin-bottom: 10px;
+}
+
+.card-toggle {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    height: 1.5rem;
+    margin: 1rem;
+  }
+
+.card-toggle:focus{
+    outline: none;
+}
+
+.card-title{
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 0;
+
+    width:200px;
+}
+
+.card-credit{
+    color: gray;
+    font-size: 14px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.pre-req{
+    display: flex;
+    flex-direction: row;
+    padding: 10px 0;
+    gap: 5px;
+    height: 10px;
+}
+
+.pre-reqs{
+    font-size: 10px;
+    color: gray;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    height: 10px;
+}
+
+.circle{
+    /* max-width: 10px; */
+    width: 10px;
+    /* max-height: 10px; */
+    height: 10px;
+    min-width: 10px;
+    min-height: 10px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+    background: rgb(220,53,69);
+    margin-top: 2px;
+}
+
+.pre-req{
+    display: flex;
+    flex-direction: row;
+}
+
+.standing{
+    font-size: 10px;
+    color: gray;
+    padding-left: 5px;
+    margin-bottom:2px;
+    height: auto;
+}
+
+.card-hide
+{
+    display: none;
+    padding-bottom: 20px;
+}
+
+.card-subtitle
+{
+    font-size: 14px;
+    color: gray;
+    margin-top: 5px;
+    margin-bottom: 2px;
+}

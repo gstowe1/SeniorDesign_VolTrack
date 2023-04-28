@@ -1,0 +1,315 @@
+{
+    "expanded perspective elective": {
+      "Name": "expanded perspective elective",
+      "count": "2",
+      "available": "",
+      "category": "Exapanded Perspective",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "Global Citizenship": {
+      "Name": "Global Citizenship",
+      "count": "1",
+      "available": "",
+      "category": "Global Citizenship",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "Arts and Humanities Elective": {
+      "Name": "Arts and Humanities Elective",
+      "count": "1",
+      "available": "",
+      "category": "Arts and Humanities Elective",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "Engineering Science Elective": {
+      "Name": "Engineering Science Elective",
+      "count": "2",
+      "available": "ECE 301;EF 130;EF 230;ME 331;MSE 201;MSE 207;ME 202;ME 231",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "Industrial Engineering Electives": {
+      "Name": "Industrial Engineering Electives",
+      "count": "3",
+      "available": "IE 423;IE 430;IE 452;IE 457;IE 465;IE 483;IE 484;IE 493;IE 494;IE 495",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": "IE/TECH"
+    },
+    "Technical Elective": {
+      "Name": "Technical Elective",
+      "count": "2",
+      "available": "DSGN 430;ECE 255;ECE 463;ECON 311;ECON 313;ECON 322;ECON 331;ECON 333;ECON 351;EF 333;IE 350;IE 450;ENT 350;ENT 415;ENT 425;ENT 451;ENT 460;ENT 492;FINC 300;IE 423;IE 430;IE 452;IE 457;IE 465;IE 483;IE 484;IE 493;IE 494;IE 495;MARK 300;MGT 300;MSE 302;MSE 340;MSE 347;MSE 360;MSE 367;MSE 390;MSE 397;MSE 405;ME 321;ME 365;ME 366;ME 367;NE 342;NE 347",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": "IE/TECH"
+    },
+    "Global Citizenship-international": {
+      "Name": "Global Citizenship-international",
+      "count": "1",
+      "available": "",
+      "category": "Global Citizenship-International",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "EF 105": {
+      "Name": "EF 105",
+      "count": "1",
+      "available": "EF 105",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "Introduction to physics and modeling": {
+      "Name": "Introduction to physics and modeling",
+      "count": "1",
+      "available": "EF 142;EF 151;EF 157",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "English 1": {
+      "Name": "English 1",
+      "count": "1",
+      "available": "ENGL 101;ENGL 118;ENGL 131;ENGL 198",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "Calc 1": {
+      "Name": "Calc 1",
+      "count": "1",
+      "available": "MATH 132;MATH 141; MATH 147",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "Computer Science": {
+      "Name": "Computer Science",
+      "count": "1",
+      "available": "COSC 111",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "EF 2": {
+      "Name": "EF 2",
+      "count": "1",
+      "available": "EF 152;EF 158",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "English 2": {
+      "Name": "English 2",
+      "count": "1",
+      "available": "ENGL 102;ENGL 132;ENGL 290;ENGL 298",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "Calc 2": {
+      "Name": "Calc 2",
+      "count": "1",
+      "available": "MATH 142;MATH 148",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "IE 200": {
+      "Name": "IE 200",
+      "count": "1",
+      "available": "IE 200",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "IE 201": {
+      "Name": "IE 201",
+      "count": "1",
+      "available": "IE 201",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "IE 250": {
+      "Name": "IE 250",
+      "count": "1",
+      "available": "IE 250",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "calc 3": {
+      "Name": "calc 3",
+      "count": "1",
+      "available": "MATH 241;MATH 247",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "econ 201": {
+      "Name": "econ 201",
+      "count": "1",
+      "available": "ECON 201;ECON 207",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "phys 231": {
+      "Name": "phys 231",
+      "count": "1",
+      "available": "PHYS 231",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "chem 122": {
+      "Name": "chem 122",
+      "count": "1",
+      "available": "CHEM 122",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "chem 123": {
+      "Name": "chem 123",
+      "count": "1",
+      "available": "CHEM 123;CHEM 128",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "IE 202": {
+      "Name": "IE 202",
+      "count": "1",
+      "available": "IE 202",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "IE 405": {
+      "Name": "IE 405",
+      "count": "1",
+      "available": "IE 405",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "MATH 200": {
+      "Name": "MATH 200",
+      "count": "1",
+      "available": "MATH 200",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "MATH 231": {
+      "Name": "MATH 231",
+      "count": "1",
+      "available": "MATH 231;MATH 237",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "IE 301": {
+      "Name": "IE 301",
+      "count": "1",
+      "available": "IE 301",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "IE 304": {
+      "Name": "IE 304",
+      "count": "1",
+      "available": "IE 304",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "IE 340": {
+      "Name": "IE 340",
+      "count": "1",
+      "available": "IE 340",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "IE 401": {
+      "Name": "IE 401",
+      "count": "1",
+      "available": "IE 401;IE 407",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "IE 402": {
+      "Name": "IE 402",
+      "count": "1",
+      "available": "IE 402",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "IE 300": {
+      "Name": "IE 300",
+      "count": "1",
+      "available": "IE 300",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "IE 310": {
+      "Name": "IE 310",
+      "count": "1",
+      "available": "IE 310;IE 317",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "IE 406": {
+      "Name": "IE 406",
+      "count": "1",
+      "available": "IE 406;IE 408",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "IE 427": {
+      "Name": "IE 427",
+      "count": "1",
+      "available": "IE 427",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "IE 404": {
+      "Name": "IE 404",
+      "count": "1",
+      "available": "IE 404",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "IE 422": {
+      "Name": "IE 422",
+      "count": "1",
+      "available": "IE 422",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    },
+    "IE 421": {
+      "Name": "IE 421",
+      "count": "1",
+      "available": "IE 421;IE 428",
+      "category": "",
+      "Program": "IE Major",
+      "shared_group": ""
+    }
+  }
+  
