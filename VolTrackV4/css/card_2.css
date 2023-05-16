@@ -1,0 +1,117 @@
+.card-status
+{
+  display: none;
+    cursor: move;
+    width: 100%;
+    height: 15px;
+    background-color: red;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+.card {
+    max-width: 265px;
+    min-width: 265px;
+    border-radius: 4px;
+    /* box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); */
+    height: auto;
+    user-select: none;
+}
+  
+  .card-header {
+    cursor: pointer;
+    background-color: #ffe2e2;
+    border-bottom: 1px solid #e9ecef;
+    padding: 10px 20px;
+  }
+
+  .card-header i{
+    margin-bottom: 10px;
+  }
+
+  
+  .card-title {
+    font-size: 21px;
+    margin-bottom: 5px;
+  }
+  
+  .card-subtitle {
+    font-size: 24px;
+    /* margin-bottom: 5px; */
+  }
+  
+  .card-body {
+    height: auto;
+    padding: 20px;
+    display: none;
+  }
+
+  .show
+  {
+    display: block;
+  }
+  
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .req-wrapper {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .req-status {
+    width: 10px;
+    max-width: 10px;
+    min-width: 10px;
+
+    height: 10px;
+    min-height: 10px;
+    max-height: 10px;
+    margin-right: 10px;
+    border-radius: 50%;
+    background-color: red; 
+  }
+  .card-text {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .card-subtitle.text-muted {
+    color: #6c757d;
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+  
+  textarea {
+    overflow: auto;
+    resize: none;
+    height: auto;
+    border-color: #e9ecef;
+    width:100%;
+  }
+
+  textarea:focus
+  {
+    outline-color: #e9ecef;
+    border-radius: 0px;
+    outline-style: solid;
+  }
+
+  .completed
+  {
+    background-color: #eaffe2;
+  }
+  
+  .completedCircle
+  {
+    background-color: green;
+  }
+
+  .space-between
+  {
+    width:100%;
+    display: flex;
+    justify-content: space-between;
+  }
